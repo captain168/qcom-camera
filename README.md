@@ -20,5 +20,6 @@ $ git commit -m "添加 README.md 文件"        # 提交并备注信息
  create mode 100644 README.md
 
 # 提交到 Github
-$ git remote add origin git@github.com:tianqixin/runoob-git-test.git
+$ git remote add origin git@github.com:captain168/qcom-camera.git
+
 $ git push -u origin master
