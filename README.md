@@ -8,6 +8,7 @@
 现在，我们根据 GitHub 的提示，在本地的仓库下运行命令：
 
 $ mkdir runoob-git-test                     # 创建测试目录
+
 $ cd runoob-git-test/                       # 进入测试目录
 $ echo "# 菜鸟教程 Git 测试" >> README.md     # 创建 README.md 文件并写入内容
 $ ls                                        # 查看目录下的文件
