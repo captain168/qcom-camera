@@ -8,7 +8,6 @@
 现在，我们根据 GitHub 的提示，在本地的仓库下运行命令：
 
 $ mkdir runoob-git-test                     # 创建测试目录
-
 $ cd runoob-git-test/                       # 进入测试目录
 $ echo "# 菜鸟教程 Git 测试" >> README.md     # 创建 README.md 文件并写入内容
 $ ls                                        # 查看目录下的文件
@@ -20,7 +19,7 @@ $ git commit -m "添加 README.md 文件"        # 提交并备注信息
  1 file changed, 1 insertion(+)
  create mode 100644 README.md
 
-# 提交到 Github
+## 提交到 Github
 $ git remote add origin git@github.com:captain168/qcom-camera.git
 
 $ git push -u origin master
